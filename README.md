@@ -1,0 +1,1 @@
+"Medicare_scrubbed-master.csv" should be the best copy of the data. I broke up the data into chunks of about 15k lines apiece (medicare15k.csv, medicare30k.csv, etc) to import into my application to make sure nothing blew up or timed out during the upload to my vps. There may be a few inconsistancies between them... Work in progress.
